@@ -1,5 +1,5 @@
 node_modules/
 
-Z*
+z*
 .env
-artifacts/
+/artifacts/
